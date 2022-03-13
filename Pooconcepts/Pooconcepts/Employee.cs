@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pooconcepts
 {
-    public  abstract class Employee
+    public  abstract class Employee : IPay
     {
         public int id { get; set; }
 
