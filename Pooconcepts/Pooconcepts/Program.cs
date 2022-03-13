@@ -89,6 +89,7 @@ Invoice invoice1 = new Invoice()
     Price = 5300000M,
     Quantity = 6
 };
+
 Invoice invoice2 = new Invoice()
 {
     Description = "Posta Preum",
